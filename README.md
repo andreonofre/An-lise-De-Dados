@@ -1,2 +1,2 @@
-# An-lise-De-Dados
-Projeto de Análise de Dados com Python.
+# Analise-De-Dados
+Projeto de Análise de Dados com Python
